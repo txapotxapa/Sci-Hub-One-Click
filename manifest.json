@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Sci-Hub One-Click",
+    "version": "1.0",
+    "description": "Copies current webpage URL and instantly opens Sci-Hub PDF.",
+    "permissions": ["activeTab", "scripting", "clipboardWrite"],
+    "action": {},
+    "background": {
+      "service_worker": "background.js"
+    }
+  }
+  
+  
