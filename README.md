@@ -1,4 +1,3 @@
-# sci-hub_chrom_ext
 Sci-Hub One-Click is a lightweight Chrome extension that provides instant access to scientific papers via Sci-Hub. Click the extension icon, and the article PDF will open in a new tab.
 
 ## Features
